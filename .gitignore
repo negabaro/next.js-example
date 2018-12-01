@@ -1,0 +1,6 @@
+next.js/*
+node_modules
+dist
+.next
+.vscode
+.DS_Store
